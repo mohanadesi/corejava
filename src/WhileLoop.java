@@ -1,4 +1,4 @@
-package jan2023;
+
 
 public class WhileLoop {
 	public static void main(String[] args) {
